@@ -2,7 +2,7 @@
 ```bash
 echo "Hello World"
 ```
-### 🔒 Securirty
+### 🔒 Security
 ```go
 hash := sha256.Sum256(data) 
 ```
